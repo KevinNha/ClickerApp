@@ -32,7 +32,7 @@
         android:id="@+id/textView2"
         android:layout_width="202dp"
         android:layout_height="47dp"
-        android:layout_marginTop="184dp"
+        android:layout_marginTop="180dp"
         android:gravity="center_horizontal|center_vertical"
         android:text="@string/text_numberOfClicks"
         app:layout_constraintEnd_toEndOf="parent"
